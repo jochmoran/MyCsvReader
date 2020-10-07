@@ -1,4 +1,4 @@
-# MyCsvReader
+# Privacy Policy
 MyCsvReader Privacy Policy
 
 **Privacy Policy**
