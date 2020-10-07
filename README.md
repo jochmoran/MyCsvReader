@@ -1,19 +1,17 @@
 # Privacy Policy
 MyCsvReader Privacy Policy
 
-**Privacy Policy**
+**SUGURO Privacy Statement**
 
-SUGURO built the My Csv Reader app as a Free app. This SERVICE is provided by SUGURO at no cost and is intended for use as is.
+SUGURO built the MY CSV READER platform as a Free android application. This SERVICE is provided by SUGURO at no cost and is intended for viewing csv files generated from a particular website. Random users are not advised but free to test the said application during Open Testing.
 
-This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
+This privacy statement explains the policies with the collection, use, and disclosure of Personal Information if anyone decided to use the app.
 
-If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
+Please read the policy stated in this page to understand the behavior of this platform and relevant information as to why data are collected from users.
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at My Csv Reader unless otherwise defined in this Privacy Policy.
+**Data we collect and how we use it**
 
-**Information Collection and Use**
-
-As for app's functionality, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to File. The information that I request will be retained on your device and is not collected by me in any way.
+While using the app, It is required to provide us with certain file that may include personally identifiable information. The information provided by the user will be retained locally on user's device and is not shared online in any way. The app does not have the ability to store user's information nor log data which might be included to future updates. Therefore, users should be able to utilize the app even without the use of Internet and keep the data safe.
 
 The app does use third party services that may collect information used to identify you.
 
@@ -21,11 +19,7 @@ Link to privacy policy of third party service providers used by the app
 
 *   [Google Play Services](https://www.google.com/policies/privacy/)
 
-**Log Data**
-
-I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
-
-**Cookies**
+**Cookies and similar technologies**
 
 Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
 
@@ -56,10 +50,10 @@ This service is open to all age group. However, csv files provided by those user
 
 **Changes to This Privacy Policy**
 
-I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
+This Privacy Policy may require an update from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this github page.
 
 This policy is effective as of 2020-10-07
 
 **Contact Us**
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at jochmoran@gmail.com.
+If you have any questions or suggestions about the Privacy Policy, please feel free to send email at jochmoran@gmail.com.
