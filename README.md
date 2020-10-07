@@ -1,5 +1,5 @@
 # Privacy Policy
-MyCsvReader Privacy Policy
+My Csv Reader Privacy Policy
 
 **SUGURO Privacy Statement**
 
@@ -44,9 +44,11 @@ I value your trust in providing us your Personal Information, thus we are strivi
 
 This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
 
-**Children’s Privacy**
+**Children’s Privacy Statement**
 
-This service is open to all age group. However, csv files provided by those user below 13 years old while using the app may contain personal information. The said information will only be visible from user's device and is not shared online.
+My Csv Reader is a utility tool for viewing csv files and is open to all age group. However, we do not have the control as to what information the user may provide when selecting a csv file. 
+
+The purpose of this Children's privacy statement is to assure that personal information collected from a minor user is stored locally to user's device and is not disclosed to anyone. Information may be visible and can be viewed from the app but is not shared online.
 
 **Changes to This Privacy Policy**
 
