@@ -50,7 +50,7 @@ This Service may contain links to other sites. If you click on a third-party lin
 
 My Csv Reader is a utility tool for viewing csv files and is open to all age group. However, we do not have the control as to what information the user may provide when selecting a csv file. 
 
-The purpose of this Children's privacy statement is to assure that personal information collected from a minor user is stored locally to user's device and is not disclosed to anyone. Information may be visible and can be viewed from the app but is not shared online.
+The purpose of this Children's privacy statement is to assure that personal information collected from a minor user is only visible to user's end and is not disclosed to anyone. Information may be visible and can be viewed from the app but is not shared online.
 
 **Changes to This Privacy Policy**
 
@@ -60,4 +60,4 @@ This policy is effective as of 2020-10-07
 
 **Contact Us**
 
-If you have any questions or suggestions about the Privacy Policy, please feel free to send email at jochmoran@gmail.com.
+If you have any kind of concerns about my Privacy Policy, do not hesitate to send me an email at jochmoran@gmail.com
