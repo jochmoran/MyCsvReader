@@ -7,11 +7,13 @@ SUGURO built the MY CSV READER platform as a Free android application. This SERV
 
 This privacy statement explains the policies with the collection, use, and disclosure of Personal Information if anyone decided to use the app.
 
-Please read the policy stated in this page to understand the behavior of this platform and relevant information as to why data are collected from users.
+Please read the policy stated in this page to understand the platform's behavior and relevant information as to why data are collected from users.
 
 **Data we collect and how we use it**
 
-While using the app, It is required to provide us with certain file that may include personally identifiable information. The information provided by the user will be retained locally on user's device and is not shared online in any way. The app does not have the ability to store user's information nor log data which might be included to future updates. Therefore, users should be able to utilize the app even without the use of Internet and keep the data safe.
+While using our utility platform, It is necessary to provide a certain csv file to be viewed by the user as it is the kind of service that our platform provide. The said file may include personally identifiable information. The information provided by the user will be retained locally on user's device and is not shared online in any way. 
+
+The app does not have the ability to store your information online nor a log data for errors. Therefore, you should be able to utilize the app even without the use of Internet and keep the data safe.
 
 The app does use third party services that may collect information used to identify you.
 
